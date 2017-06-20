@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [KickOff Party](kickoff/README.md)
-    * [1.1 教学目的](kickoff/1-TeachingTarget.md)
+    * [1.1 教学目的](kickoff/1-Teaching-Target.md)
     * [1.2 软件和工具](kickoff/2-Software-Tool.md)
     * [1.3 教学方法](kickoff/3-Learning-Method.md)
     * [1.4 WEB基本知识和历史](kickoff/4-Web-Basics.md)
@@ -19,4 +19,3 @@
     * [3.4 使用Chrome开发者工具调试样式](CSS/4-Chrome-Developer-Tool.md)
     * [3.5 动手 - 修改更多CSS样式](CSS/2-Common-CSS.md)
 * [Intro to Bootstrap](Bootstrap/README.md)
-
