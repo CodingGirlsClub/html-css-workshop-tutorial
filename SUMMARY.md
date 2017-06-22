@@ -2,12 +2,12 @@
 
 * [介绍](README.md)
 
-* [KickOff Party](kickoff/README.md)
-  - [1.1 教学目的](kickoff/1-Teaching-Target.md)
-  - [1.2 软件和工具](kickoff/2-Software-Tool.md)
-  - [1.3 教学方法](kickoff/3-Learning-Method.md)
-  - [1.4 WEB基本知识和历史](kickoff/4-Web-Basics.md)
-  - [1.5 课前自学](kickoff/5-Pre-Homework.md)
+* [KickOff Party](Kickoff/README.md)
+  - [1.1 教学目的](Kickoff/1-Teaching-Target.md)
+  - [1.2 软件和工具](Kickoff/2-Software-Tool.md)
+  - [1.3 教学方法](Kickoff/3-Learning-Method.md)
+  - [1.4 WEB基本知识和历史](Kickoff/4-Web-Basics.md)
+  - [1.5 课前自学](Kickoff/5-Pre-Homework.md)
 * [Intro to HTML](HTML/README.md)
   - [2.1 初识HTML](HTML/1-HTML-Basics.md)
   - [2.2 HTML常用术语](HTML/2-Common-HTML.md)
