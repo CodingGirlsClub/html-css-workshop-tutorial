@@ -18,5 +18,5 @@
   - [3.2 CSS常用术语](CSS/2-Common-CSS.md)
   - [3.3 CSS盒子模型](CSS/3-Box-Model.md)
   - [3.4 使用Chrome开发者工具调试样式](CSS/4-Chrome-Developer-Tool.md)
-  - [3.5 动手 - 修改更多CSS样式](CSS/2-Common-CSS.md)
+  - [3.5 动手 - 修改更多CSS样式](CSS/5-CSS-Best-Practice.md)
 * [Intro to Bootstrap](Bootstrap/README.md)
