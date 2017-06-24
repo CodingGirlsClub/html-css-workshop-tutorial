@@ -12,8 +12,6 @@ Cooking time: 30min active / 30-45min passive
   - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/)
   - 按照阅读内容，配置好[github.com](http://github.com) 的帐号信息
 - 注册 [http://codepen.io/](http://codepen.io/)
-- 下载概念图开源软件 [Cmap](http://cmap.ihmc.us/)
-  - 阅读（可选） [概念图 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%A6%82%E5%BF%B5%E5%9B%BE)
 
 
 
