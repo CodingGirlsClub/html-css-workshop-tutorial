@@ -11,10 +11,9 @@ Cooking time: 30min active / 30-45min passive
 - 安装[GitHub Desktop](https://desktop.github.com/)
   - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/)
   - 按照阅读内容，配置好[github.com](http://github.com) 的帐号信息
-- 注册 [http://codepen.io/](http://codepen.io/)
 
-
-
+**Tasks For Tutors**：
+请教练介绍一下这些软件。tips：尽量使用类比方法，让学员快速理解这些软件的用途。
 
 ------
 

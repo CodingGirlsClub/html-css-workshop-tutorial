@@ -20,3 +20,7 @@
   - [3.4 使用Chrome开发者工具调试样式](CSS/4-Chrome-Developer-Tool.md)
   - [3.5 动手 - 修改更多CSS样式](CSS/5-CSS-Best-Practice.md)
 * [Intro to Bootstrap](Bootstrap/README.md)
+  * [4.1 布局](Bootstrap/1-Grid.md)
+  * [4.2 基础Bootstrap CSS](Bootstrap/2-Bootstrap-CSS.md)
+  * [4.3 组件](Bootstrap/3-Components.md)
+* [成果展示](Presentation.md)
