@@ -8,13 +8,13 @@
 
    - 修改`<h1>`元素中内容为「Girls Coding Day」
 
-   - 增加`<h3>`标签 （**考察知识点**： Headings系列）
+   - 增加`<h3>`标签，其内容为「我也愿意贡献力量帮助更多的女性学习编程」 （**考察知识点**： Headings系列）
 
-   - `<span>`标签嵌套一个`<a>`标签（链接为 Bootstrap模板下载地址 https://startbootstrap.com/template-overviews/clean-blog/）   （**考察知识点**： Paragraphs，Opening Links in a New Window， 参考资料 [HTML 链接](http://www.w3school.com.cn/html/html_links.asp) ）
+   - 在`<span>`标签嵌套一个`<a>`标签（链接为 Bootstrap模板下载地址 https://startbootstrap.com/template-overviews/clean-blog/）   （**考察知识点**： Paragraphs，Opening Links in a New Window， 参考资料 [HTML 链接](http://www.w3school.com.cn/html/html_links.asp) ）
 
-   - 将博客二字加粗（**考察知识点**：Bold Text with Strong）
+   - 将「博客」二字加粗（**考察知识点**：Bold Text with Strong）
 
-   - 将制作二字变成斜体（**考察知识点**：Italicize Text with Emphasis）
+   - 将「制作」二字变成斜体（**考察知识点**：Italicize Text with Emphasis）
 
      **<u>Inquiry Learning</u>** ：
 

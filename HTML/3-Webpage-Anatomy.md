@@ -38,22 +38,7 @@
 例如上面第二个练习题 <meta> 就只有开标签，没有闭标签。其他常见自闭合标签：`<br>`  `<embed>` `<hr>` `<img>` `<input>` `<link>` `<meta>` `<param>` `<source>` `<wbr>`
 #### 3. 聊聊三种标签元素的区别与特点：
 
-##### 行内元素
-
-```
-a,b,span,img,input,strong,select,label,em,button,textarea
-```
-行内元素的特点：
-
-- 和其他元素都在一行上
-- 高，行高及外边距和内边距部分可改变
-- 宽度只与内容有关
-- 行内元素只能容纳文本或者其他行内元素
-- display属性为inline
-- 水平方向的padding-left、padding-right、margin-left、margin-right都产生边距效果，但竖直方向的padding-top、padding-bottom、margin-top、margin-bottom却不会产生边距效果。
-- 不可以设置宽高，其宽度随着内容增加，高度随字体大小而改变，内联元素可以设置外边界，但是外边界不对上下起作用，只能对左右起作用。
-
-##### 块级元素
+##### 块元素
 
 ```
 div,ul,li,dl,dt,dd,p,h1-h6,blockquote
@@ -66,6 +51,23 @@ div,ul,li,dl,dt,dd,p,h1-h6,blockquote
 - 它可以容纳内联元素和其他块元素
 - display属性为block
 - 块级元素的垂直相邻外边距margin会合并。
+
+##### 内联元素
+
+```
+a,b,span,img,input,strong,select,label,em,button,textarea
+```
+内联元素的特点：
+
+- 和其他元素都在一行上
+- 高，行高及外边距和内边距部分可改变
+- 宽度只与内容有关
+- 行内元素只能容纳文本或者其他行内元素
+- display属性为inline
+- 水平方向的padding-left、padding-right、margin-left、margin-right都产生边距效果，但竖直方向的padding-top、padding-bottom、margin-top、margin-bottom却不会产生边距效果。
+- 不可以设置宽高，其宽度随着内容增加，高度随字体大小而改变，内联元素可以设置外边界，但是外边界不对上下起作用，只能对左右起作用。
+
+
 
 ##### 空元素
 
