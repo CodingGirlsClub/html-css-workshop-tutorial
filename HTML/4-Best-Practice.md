@@ -12,9 +12,9 @@
 
    - 在`<span>`标签嵌套一个`<a>`标签（链接为 Bootstrap模板下载地址 https://startbootstrap.com/template-overviews/clean-blog/）   （**考察知识点**： Paragraphs，Opening Links in a New Window， 参考资料 [HTML 链接](http://www.w3school.com.cn/html/html_links.asp) ）
 
-   - 将「博客」二字加粗（**考察知识点**：Bold Text with Strong）
+   - 将「博客」二字加粗（**考察知识点**：Bold Text with Strong， 参考资料 [HTML 文本格式化](http://www.w3school.com.cn/html/html_formatting.asp)）
 
-   - 将「制作」二字变成斜体（**考察知识点**：Italicize Text with Emphasis）
+   - 将「制作」二字变成斜体（**考察知识点**：Italicize Text with Emphasis， 参考资料 [HTML 文本格式化](http://www.w3school.com.cn/html/html_formatting.asp)）
 
      **<u>Inquiry Learning</u>** ：
 
