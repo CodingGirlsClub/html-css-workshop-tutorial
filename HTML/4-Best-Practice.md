@@ -40,4 +40,4 @@
 
    - 添加邮箱图标，点击图标可以发送邮件。邮件需要包含主题（subject)和正文(body)  (参考： [Mailto Links | CSS-Tricks](https://css-tricks.com/snippets/html/mailto-links/)) (备注：Linking to an Email Address)
 
-   - 修改copyright段落内容，改成表格样式。（**考察知识点**：Organizing Data with Tables， 参考 [HTML 表格](http://www.w3school.com.cn/html/html_tables.asp) ）
+   - 修改copyright段落内容
