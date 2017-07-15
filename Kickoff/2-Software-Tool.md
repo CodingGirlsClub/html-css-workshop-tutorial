@@ -19,7 +19,7 @@ Cooking time: 30min active / 30-45min passive
 
 ### Github Desktop 配置
 
-1. 去https://startbootstrap.com/template-overviews/clean-blog/， 下载免费Bootstrap模板，保存在桌面。
+1. 去[Clean Blog - Bootstrap Blog Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/clean-blog/)， 下载免费Bootstrap模板，保存在桌面。
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-062730.jpg)
 
