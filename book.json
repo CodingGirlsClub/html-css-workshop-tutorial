@@ -34,6 +34,26 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "girlscodingday"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": false,
+            "instapaper": false,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": true,
+            "qq": true,
+            "qzone": true,
+            "twitter": true,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper", "linkedin",
+                "pocket"
+            ]
         }
     },
     "title": "Girls Coding Day Tutorial",
