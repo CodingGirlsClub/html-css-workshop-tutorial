@@ -1,0 +1,41 @@
+{
+    "author": "Yang Wen <wenyang@codingirls.club>",
+    "description": "The tutorial is created for Girls Coding Day",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": "http://weibo.com/codingirlsclub",
+            "douban": "https://www.douban.com/people/codingirlsclub/"
+        },
+        "sidebar": {
+            "Girls Coding Day": "https://girlscodingday.org/"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "girlscodingday"
+        }
+    },
+    "title": "Girls Coding Day Tutorial",
+    "variables": {}
+}
