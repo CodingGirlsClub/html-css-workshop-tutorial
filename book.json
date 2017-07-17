@@ -30,7 +30,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["disqus"],
+    "plugins": ["disqus","downloadpdf"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "girlscodingday"
@@ -54,7 +54,13 @@
                 "weibo", "instapaper", "linkedin",
                 "pocket"
             ]
+        },
+        "downloadpdf": {
+          "base": "https://github.com/CodingGirlsClub/GirlsCodingDayTutorial/blob/master/GirlsCodingDayTutorial.pdf",
+          "label": "Download PDF",
+          "multilingual": false
         }
+
     },
     "title": "Girls Coding Day Tutorial",
     "variables": {}
