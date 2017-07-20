@@ -8,7 +8,7 @@ Cooking time: 30min active / 30-45min passive
   - 略读 [文本编辑器 - 维基百科](https://zh.wikipedia.org/wiki/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8)
 - 注册[GitHub](https://github.com/)
   - Github能用来做什么？请略读 [怎样使用 GitHub？ - 知乎](https://www.zhihu.com/question/20070065)
-- 安装[GitHub Desktop](https://desktop.github.com/)
+- 安装[GitHub Desktop](https://desktop.github.com/)(请下载最新的Desktop Beta版本)
   - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/)
   - 按照阅读内容，配置好[github.com](http://github.com) 的帐号信息
 
@@ -19,15 +19,26 @@ Cooking time: 30min active / 30-45min passive
 
 ### Github Desktop 配置
 
-1. 去[Clean Blog - Bootstrap Blog Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/clean-blog/)， 下载免费Bootstrap模板，保存在桌面。
+1. 去[Clean Blog - Bootstrap Blog Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/clean-blog/)， 下载免费Bootstrap模板，保存在桌面（或者是你想要放代码的文件夹）。
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-062730.jpg)
 
-2. 解压缩，文件夹重命名为 `GirlsCodingDayDemo`
+2. 打开Github Desktop，在桌面上（或者是你想要放代码的文件夹中）创建一个名为`GirlsCodingDayDemo`的文件夹。
 
-3. 打开Github Desktop，添加刚刚解压缩的文件夹为本地仓库。如下图
+   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-githubDesktopCreateNewRepo.png)
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-063309.jpg)
+   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-gitDesktopNewRepoInfo.png)
+
+    a. 填写`Name`信息为`GirlsCodingDayDemo`
+    b. `local Path`选择你的桌面（或者是你以后想要放代码的文件夹)
+    c. `Initialize this repo with a Readme`的选项打钩
+    d. `git ignore`保持none
+    e. `license`保持none
+    f. 点击`create repository`
+
+
+3. 现在你的桌面上(或者是你想要放代码的文件夹中)会出现一个叫做`GirlsCodingDayDemo`的文件夹。
+   解压下载的免费Bootstrap模板，把模板内的文件夹拷贝到`GirlsCodingDayDemo`这个文件夹中。
 
 4. 提交commit到master分支，（注意changes）
 
