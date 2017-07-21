@@ -20,32 +20,21 @@ Cooking time: 30min active / 30-45min passive
 ### Github Desktop 配置
 
 1. 去[Clean Blog - Bootstrap Blog Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/clean-blog/)， 下载免费Bootstrap模板，保存在桌面（或者是你想要放代码的文件夹）。
-
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-062730.jpg)
-
 2. 打开Github Desktop，在桌面上（或者是你想要放代码的文件夹中）创建一个名为`GirlsCodingDayDemo`的文件夹。
-
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-githubDesktopCreateNewRepo.png)
-
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-gitDesktopNewRepoInfo.png)
 
-    a. 填写`Name`信息为`GirlsCodingDayDemo`
-    b. `local Path`选择你的桌面（或者是你以后想要放代码的文件夹)
-    c. `Initialize this repo with a Readme`的选项打钩
-    d. `git ignore`保持none
-    e. `license`保持none
-    f. 点击`create repository`
-
-
+  > a. 填写`Name`信息为`GirlsCodingDayDemo`  
+  > b. `local Path`选择你的桌面（或者是你以后想要放代码的文件夹)  
+    c. `Initialize this repo with a Readme`的选项打钩  
+    d. `git ignore`保持none  
+    e. `license`保持none  
+    f. 点击`create repository`  
 3. 现在你的桌面上(或者是你想要放代码的文件夹中)会出现一个叫做`GirlsCodingDayDemo`的文件夹。
    解压下载的免费Bootstrap模板，把模板内的文件夹拷贝到`GirlsCodingDayDemo`这个文件夹中。
-
 4. 提交commit到master分支，（注意changes）
-
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064013.jpg)
-
-   ​
-
 5. 发布到Github
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-063511.jpg)
