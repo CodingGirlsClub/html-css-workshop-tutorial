@@ -3,7 +3,7 @@
 Cooking time: 30min active / 30-45min passive
 
 - 下载并安装 [浏览器 Chrome](http://cn.bing.com/search?q=chrome)
-- 下载并安装 [文本编辑器 Atom](https://atom.io/)
+- 下载并安装 [文本编辑器 Visual Studio Code](https://code.visualstudio.com/)
   - 你是否好奇「文本编辑器」是什么？那么赶紧用搜索引擎搜索一下关键字「文本编辑器」吧。
   - 略读 [文本编辑器 - 维基百科](https://zh.wikipedia.org/wiki/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8)
 - 注册[GitHub](https://github.com/)
