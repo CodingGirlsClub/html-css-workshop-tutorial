@@ -53,7 +53,7 @@ Cooking time: 30min active / 30-45min passive
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-065152.jpg)
 
-7. 使用Atom编辑器打开桌面的文件夹`GirlsCodingDayDemo`。找到`index.html`文件，修改其中两处HTML代码, 然后**保存**（一定要保存！）。
+7. 使用Visual Studio Code编辑器打开桌面的文件夹`GirlsCodingDayDemo`。找到`index.html`文件，修改其中两处HTML代码, 然后**保存**（一定要保存！）。
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-065430.jpg)
 
