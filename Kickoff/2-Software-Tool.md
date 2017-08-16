@@ -19,8 +19,8 @@ Cooking time: 30min active / 30-45min passive
 
 ### Github Desktop 配置
 
-1. 去[Clean Blog - Bootstrap Blog Theme - Start Bootstrap](https://startbootstrap.com/template-overviews/clean-blog/)， 下载免费Bootstrap模板，保存在桌面（或者是你想要放代码的文件夹）。
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-062730.jpg)
+1.  下载[Bootstrap模板](http://ocuwjo7n4.bkt.clouddn.com/startbootstrap-clean-blog-gh-pages.zip)，解压缩保存在桌面（或者是你想要放代码的文件夹）。
+
 2. 打开Github Desktop，在桌面上（或者是你想要放代码的文件夹中）创建一个名为`GirlsCodingDayDemo`的文件夹。
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-githubDesktopCreateNewRepo.png)
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-gitDesktopNewRepoInfo.png)
