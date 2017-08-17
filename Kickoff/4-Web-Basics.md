@@ -120,7 +120,7 @@ Cooking time: 30min active / 30-45min passive
 
 **Tasks For Tutors**：
 
-1. 给学员演示如何使用atom
+1. 给学员演示如何使用Visual Studio Code
    - 打开一个项目
    - 找到index.html
    - 修改html常用标签：title/h1/h3/li/ol

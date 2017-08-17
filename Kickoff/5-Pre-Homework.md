@@ -1,9 +1,9 @@
 ## 1.5 课前作业
 
-- 从你的同组学员中，找一个你喜欢的或许也喜欢你的小伙伴，结对！  
+- 从你的同组学员中，找一个小伙伴，开始[结对编程](https://zh.wikipedia.org/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)!  
 - 阅读下列资料
-  - 阅读[HTML 教程](http://www.w3school.com.cn/html/index.asp) 到「HTML 内联框架」章节
-  - 阅读[CSS 教程](http://www.w3school.com.cn/css/index.asp) 到 「CSS 伪元素」章节
+  - 阅读[HTML 教程](http://www.w3school.com.cn/html/index.asp) 从第一章到「HTML 内联框架」章节
+  - 阅读[CSS 教程](http://www.w3school.com.cn/css/index.asp) 从第一章到「CSS 伪元素」章节
   > 手机上有 W3C School的App，大家可自行搜索下载。充分利用上下班通勤时间学习。 
 
 **Tasks For Tutors**：
