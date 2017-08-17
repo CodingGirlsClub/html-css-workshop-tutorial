@@ -12,7 +12,7 @@ Cooking time: 30min active / 30-45min passive
 
 #### 本地开发环境
 
-- 打开Atom软件，在桌面创建文件 `index.html`，并用文本编辑器写入你最喜欢的诗篇。
+- 打开Visual Studio Code软件，在桌面创建文件 `index.html`，并用文本编辑器写入你最喜欢的诗篇。
 - 现在，`index.html`只是一个保存在你自己电脑上面的文件.
 - 你可以通过文件夹（ Windows 电脑）或Finder（Mac电脑）看到文件的地址类似为 `/Users/yangbwen/Desktop/index.html`
 
