@@ -9,7 +9,7 @@ Cooking time: 30min active / 30-45min passive
 - 注册[GitHub](https://github.com/)
   - Github能用来做什么？请略读 [怎样使用 GitHub？ - 知乎](https://www.zhihu.com/question/20070065)
 - 安装[GitHub Desktop](https://desktop.github.com/)(请下载最新的Desktop Beta版本)
-  - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/)
+  - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github/)
   - 按照阅读内容，配置好[github.com](http://github.com) 的帐号信息
 
 **Tasks For Tutors**：
