@@ -32,7 +32,7 @@ Cooking time: 30min active / 30-45min passive
     e. `license`保持none  
     f. 点击`create repository`  
 3. 现在你的桌面上(或者是你想要放代码的文件夹中)会出现一个叫做`GirlsCodingDayDemo`的文件夹。
-   解压下载的免费Bootstrap模板，把模板内的文件夹拷贝到`GirlsCodingDayDemo`这个文件夹中。
+   把下载的免费Bootstrap模板解压后，把模板内的文件拷贝到`GirlsCodingDayDemo`这个文件夹中。
 4. 提交commit到master分支，（注意changes）
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064013.jpg)
 5. 发布到Github
@@ -43,13 +43,13 @@ Cooking time: 30min active / 30-45min passive
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064818.jpg)
 
-6. 访问github.com 网站，你可以看到你刚刚通过Github Desktop软件在github.com 网站新建了一个仓库。点击Settings
+6. 访问 https://github.com/ 网站，你可以看到你刚刚通过Github Desktop软件在github.com 网站新建了一个仓库。点击Settings
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064950.jpg)
 
    ​
 
-   设置这个仓库为Github Pages
+   一直往下拉到Github Pages部分，进行设置
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-065152.jpg)
 
@@ -67,4 +67,4 @@ Cooking time: 30min active / 30-45min passive
 
    ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-070754.jpg)
 
-10. 打开github pages的链接，可以看到自己刚刚修改的内容。
+10. 打开第六步当中github pages的链接，可以看到自己刚刚修改的内容。
