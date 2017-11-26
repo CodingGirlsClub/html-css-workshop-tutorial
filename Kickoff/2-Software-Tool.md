@@ -11,6 +11,7 @@ Cooking time: 30min active / 30-45min passive
 - 安装[GitHub Desktop](https://desktop.github.com/)(请下载最新的Desktop Beta版本)
   - 阅读并操作 [Authenticating to GitHub](https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github/)
   - 按照阅读内容，配置好[github.com](http://github.com) 的帐号信息
+  - **注意**：如果你是 Windows 32位系统，可能无法安装Github Desktop，请下载安装[SourceTree](https://www.sourcetreeapp.com/) 方法与Github Desktop雷同，如有疑问请咨询教练。
 
 **Tasks For Tutors**：
 请教练介绍一下这些软件。tips：尽量使用类比方法，让学员快速理解这些软件的用途。
