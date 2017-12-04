@@ -30,14 +30,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["disqus", "downloadpdf"],
+    "plugins": ["downloadpdf"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "girlscodingday"
         },
         "sharing": {
             "douban": true,
-            "facebook": true,
+            "facebook": false,
             "google": false,
             "instapaper": false,
             "linkedin": true,
@@ -45,12 +45,11 @@
             "pocket": true,
             "qq": true,
             "qzone": true,
-            "twitter": true,
+            "twitter": false,
             "vk": false,
             "weibo": true,
             "whatsapp": false,
             "all": [
-                "facebook", "google", "twitter",
                 "weibo", "instapaper", "linkedin",
                 "pocket"
             ]
