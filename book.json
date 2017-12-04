@@ -32,28 +32,6 @@
     },
     "plugins": ["downloadpdf"],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "girlscodingday"
-        },
-        "sharing": {
-            "douban": true,
-            "facebook": false,
-            "google": false,
-            "instapaper": false,
-            "linkedin": true,
-            "messenger": false,
-            "pocket": true,
-            "qq": true,
-            "qzone": true,
-            "twitter": false,
-            "vk": false,
-            "weibo": true,
-            "whatsapp": false,
-            "all": [
-                "weibo", "instapaper", "linkedin",
-                "pocket"
-            ]
-        },
         "downloadpdf": {
             "base": "http://pan.baidu.com/s/1i5L60df",
             "label": "Download PDF",
