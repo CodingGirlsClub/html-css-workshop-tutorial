@@ -14,3 +14,5 @@
 
 
 本教程由 [文洋](http://sundevilyang.com/) 设计，您有任何宝贵的建议欢迎联系 [wenyang@codingirls.club](mailto:wenyang@codingirls.club)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
