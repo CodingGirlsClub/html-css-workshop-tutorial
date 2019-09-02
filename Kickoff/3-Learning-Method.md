@@ -10,7 +10,7 @@
 
 什么是定向思维？
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-strategy_DRTA.jpg)
+![](http://wy.codingirlsclub.com/blog/2017-05-24-strategy_DRTA.jpg)
 
 > 定向思维，与发散思维相对，以基础为“经验”，在动力定型驱使下的按照既定方向或程序进行思维的活动过程。
 >

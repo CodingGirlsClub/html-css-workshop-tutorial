@@ -1,6 +1,6 @@
 ### CSS常用术语
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-06-16-ct_css_selector.gif)
+![](http://wy.codingirlsclub.com/blog/2017-06-16-ct_css_selector.gif)
 
 
 

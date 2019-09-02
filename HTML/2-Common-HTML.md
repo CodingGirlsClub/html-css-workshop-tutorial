@@ -1,6 +1,6 @@
 ## HTML常用术语
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-27-html-tag-1.gif)
+![](http://wy.codingirlsclub.com/blog/2017-05-27-html-tag-1.gif)
 
 ### 元素 - Element
 

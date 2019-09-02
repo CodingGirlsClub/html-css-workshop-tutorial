@@ -13,7 +13,7 @@
 
 1. 请教练以下图和代码为例，讲讲盒子的大小
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-06-16-css%20box%20model-1.png)
+![](http://wy.codingirlsclub.com/blog/2017-06-16-css%20box%20model-1.png)
 
   ```css
   div {

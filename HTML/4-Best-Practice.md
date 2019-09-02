@@ -1,6 +1,6 @@
 ## 动手 - 修改更多HTML元素
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-06-11-213738.jpg)
+![](http://wy.codingirlsclub.com/blog/2017-06-11-213738.jpg)
 
 1. 把导航栏的英文换成中文，并添加一列「报名 Girls Coding Day」，链接到  https://girlscodingday.org/ （**考察知识点**：考察学员 Lists，参考 [HTML 列表](http://www.w3school.com.cn/html/html_lists.asp)）
 
@@ -27,7 +27,7 @@
    - 去 https://unsplash.com/ 下载图片到`img`文件夹，修改图片名字，替换掉背景图 （**考察知识点**：Image， 参考资料 [HTML 图像](http://www.w3school.com.cn/html/html_images.asp)）
 
 3. 修改页面最下端`<footer>`元素中的内容如下图所示
- ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-01-040619.jpg)
+ ![](http://wy.codingirlsclub.com/blog/2017-07-01-040619.jpg)
 
    - 修改twitter图标为微信图标
 

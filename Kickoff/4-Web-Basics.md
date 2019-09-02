@@ -35,7 +35,7 @@ Cooking time: 30min active / 30-45min passive
 
 #### 认识名词：单机 、Client/Server 、 Browser/Server
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-client-server.png)
+![](http://wy.codingirlsclub.com/blog/2017-05-24-client-server.png)
 
 客户端提出请求，服务器端满足客户端（通常）。请求就像问题：客户端询问他们，服务器回答。
 对于我们的web讨论，client = browser。虽然任何类型的计算机可以用作服务器，但服务器通常比其他计算机更大和更强大。客户端应用程序在与您交互的客户端计算机上运行（如您的浏览器），
@@ -70,7 +70,7 @@ Cooking time: 30min active / 30-45min passive
 
 - Domains
 
-  ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-TLD-domain-url1.jpg)
+  ![](http://wy.codingirlsclub.com/blog/2017-05-24-TLD-domain-url1.jpg)
 
 - Domain Name System (DNS)
 
@@ -78,7 +78,7 @@ Cooking time: 30min active / 30-45min passive
 
   **Advice for Tutors**：教练解释下图
 
-  ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-server-dns-forward.jpg)
+  ![](http://wy.codingirlsclub.com/blog/2017-05-24-server-dns-forward.jpg)
 
   ​
 
@@ -98,17 +98,17 @@ Cooking time: 30min active / 30-45min passive
 
 4. 有时，代码在发给你之前必须进行编译。
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-browser-request.png)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-24-browser-request.png)
 
 #### HTML/CSS/Bootstrap/Javascript 对于WEB分别意味着什么?
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-images.png)
+![](http://wy.codingirlsclub.com/blog/2017-05-24-images.png)
 
   **Advice for Tutors**：教练简单讲讲 HTML/CSS/JavaScript 分别是什么以及三者之间的关系。
 
 
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-html_with_css_vs_html_css_bootstrap_js.jpg)
+![](http://wy.codingirlsclub.com/blog/2017-05-24-html_with_css_vs_html_css_bootstrap_js.jpg)
 
   **Advice for Tutors**： 教练讲讲
 

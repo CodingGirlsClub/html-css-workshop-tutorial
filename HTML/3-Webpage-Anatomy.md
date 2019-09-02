@@ -2,7 +2,7 @@
 
 ### HTML5 Structure
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-27-093547.jpg)
+![](http://wy.codingirlsclub.com/blog/2017-05-27-093547.jpg)
 
 **<u>Inquiry Learning</u>**
 
@@ -12,7 +12,7 @@
 
 **<u>Advice for Tutor</u>**： 向同学们解释下图，使学员脑海中网页结构的画面与HTML元素一一对应起来
 
-![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-27-091645.jpg)
+![](http://wy.codingirlsclub.com/blog/2017-05-27-091645.jpg)
 
 <u>**Learning by Doing**</u>
 

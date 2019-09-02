@@ -23,8 +23,8 @@ Cooking time: 30min active / 30-45min passive
 1.  下载[Bootstrap模板](http://ocuwjo7n4.bkt.clouddn.com/startbootstrap-clean-blog-gh-pages.zip)，解压缩保存在桌面（或者是你想要放代码的文件夹）。
 
 2. 打开Github Desktop，在桌面上（或者是你想要放代码的文件夹中）创建一个名为`GirlsCodingDayDemo`的文件夹。
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-githubDesktopCreateNewRepo.png)
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-07-20-gitDesktopNewRepoInfo.png)
+   ![](http://wy.codingirlsclub.com/blog/2017-07-20-githubDesktopCreateNewRepo.png)
+   ![](http://wy.codingirlsclub.com/blog/2017-07-20-gitDesktopNewRepoInfo.png)
 
   > a. 填写`Name`信息为`GirlsCodingDayDemo`  
   > b. `local Path`选择你的桌面（或者是你以后想要放代码的文件夹)  
@@ -35,37 +35,37 @@ Cooking time: 30min active / 30-45min passive
 3. 现在你的桌面上(或者是你想要放代码的文件夹中)会出现一个叫做`GirlsCodingDayDemo`的文件夹。
    把下载的免费Bootstrap模板解压后，把模板内的文件拷贝到`GirlsCodingDayDemo`这个文件夹中。
 4. 提交commit到master分支，（注意changes）
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064013.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-064013.jpg)
 5. 发布到Github
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-063511.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-063511.jpg)
 
    ​
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064818.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-064818.jpg)
 
 6. 访问 https://github.com/ 网站，你可以看到你刚刚通过Github Desktop软件在github.com 网站新建了一个仓库。点击Settings
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-064950.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-064950.jpg)
 
    ​
 
    一直往下拉到Github Pages部分，进行设置
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-065152.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-065152.jpg)
 
 7. 使用Visual Studio Code编辑器打开桌面的文件夹`GirlsCodingDayDemo`。找到`index.html`文件，修改其中两处HTML代码, 然后**保存**（一定要保存！）。
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-065430.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-065430.jpg)
 
 8. 使用chrome浏览器打开 `index.html`预览修改效果
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-071652.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-071652.jpg)
 
 9. 回到Github Desktop，可以看到修改的内容。提交commit，再点击Push origin同步到Github Pages。
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-070446.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-070446.jpg)
 
-   ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-26-070754.jpg)
+   ![](http://wy.codingirlsclub.com/blog/2017-05-26-070754.jpg)
 
 10. 打开第六步当中github pages的链接，可以看到自己刚刚修改的内容。
