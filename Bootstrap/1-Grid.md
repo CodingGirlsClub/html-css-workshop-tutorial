@@ -61,19 +61,21 @@ Bootstrap的基础CSS代码**默认从小屏幕设备**（比如移动设备、�
 ## 3. 用法
 
 一图胜千言，通过下表可以详细查看 Bootstrap 的栅格系统是如何在多种屏幕设备上工作的。
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-parameter.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-parameter.jpg)
 
 ### 3.1 基础
 那么我们就来看看一些示例吧，下面这种方式是最基本的用法：
-<p data-height="558" data-theme-id="0" data-slug-hash="Ypadrx" data-default-tab="html" data-user="sundevilyang" data-embed-version="2" data-pen-title="grid1" class="codepen">See the Pen <a href="http://codepen.io/sundevilyang/pen/Ypadrx/">grid1</a> by Yang Wen (<a href="http://codepen.io/sundevilyang">@sundevilyang</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="389" style="width: 100%;" scrolling="no" title="grid基本用法" src="//codepen.io/HackerStart/embed/Ypadrx/?height=389&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/HackerStart/pen/Ypadrx/'>grid基本用法</a> by Yang Wen
+  (<a href='https://codepen.io/HackerStart'>@HackerStart</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
-点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
+请以0.5x观看右侧 Result 或者点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
 
 #### 任务1
 你来试试：
 制作一个网格，效果图如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-grid-task-1.png)
+![](http://wy.codingirlsclub.com/2016-12-06-grid-task-1.png)
 
 ### 3.2 列偏移（offset）
 
@@ -83,9 +85,11 @@ Bootstrap的基础CSS代码**默认从小屏幕设备**（比如移动设备、�
 这些类实际是通过使用 `*` 选择器为当前元素增加了左侧的边距（margin）。例如：在列元素中添加`.col-md-offset-6` 类将 `.col-md-6`元素向右侧偏移了6个列（column）的宽度。
 
 现在我们的代码是这样的：
-<p data-height="265" data-theme-id="0" data-slug-hash="vyRvbR" data-default-tab="html" data-user="sundevilyang" data-embed-version="2" data-pen-title="grid列偏移" class="codepen">See the Pen <a href="http://codepen.io/sundevilyang/pen/vyRvbR/">grid列偏移</a> by Yang Wen (<a href="http://codepen.io/sundevilyang">@sundevilyang</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
+<iframe height="265" style="width: 100%;" scrolling="no" title="grid列偏移" src="//codepen.io/HackerStart/embed/vyRvbR/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/HackerStart/pen/vyRvbR/'>grid列偏移</a> by Yang Wen
+  (<a href='https://codepen.io/HackerStart'>@HackerStart</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+请以0.5x观看右侧 Result 或者点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
 
 从实现的效果我们就能发现一些东西，注意第二段的显示效果与代码，从那里我们可以发现：使用`col-md-offset-*`对列进行向右偏移时，要保证列与偏移列的总数不超过12，不然会致列断行显示。
 其实原因也很简单：因为该类是对于列设置`margin-left`，并且我们在上面的源码展示中，也可以看有每一列都有着`float:left`的属性，从这些地方我们就不难发现在（偏移+列宽）超过12时，为何会换行显示了。
@@ -100,14 +104,17 @@ Bootstrap的基础CSS代码**默认从小屏幕设备**（比如移动设备、�
 4. 第四列网格占3格宽，并且偏移1个网格。
 
 效果图如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-grid-task-2.png)
+![](http://wy.codingirlsclub.com/2016-12-06-grid-task-2.png)
 
 ### 3.3 列嵌套
 Bootstrap框架的网格系统还支持列的嵌套。你可以在一个列中添加一个或者多个行（`.row`）容器，然后在这个行容器中插入列（像前面介绍的一样使用列）。但在列容器中的行容器（`.row`），宽度为100%时，就是当前外部列的宽度。（其实就是在列中嵌套多个列，下面会有实际效果展示）
 
-<p data-height="464" data-theme-id="0" data-slug-hash="pNLGgj" data-default-tab="html" data-user="sundevilyang" data-embed-version="2" data-pen-title="grid列嵌套" class="codepen">See the Pen <a href="http://codepen.io/sundevilyang/pen/pNLGgj/">grid列嵌套</a> by Yang Wen (<a href="http://codepen.io/sundevilyang">@sundevilyang</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
+<iframe height="265" style="width: 100%;" scrolling="no" title="grid列嵌套" src="//codepen.io/HackerStart/embed/pNLGgj/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/HackerStart/pen/pNLGgj/'>grid列嵌套</a> by Yang Wen
+  (<a href='https://codepen.io/HackerStart'>@HackerStart</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+请以0.5x观看右侧 Result 或者点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
 
 **注意：嵌套的列总数也需要遵循不超过12列。不然会造成末位列换行显示。**
 
@@ -120,15 +127,17 @@ Bootstrap框架的网格系统还支持列的嵌套。你可以在一个列中�
 1. 在第二个4列网格中插入9-3列网格。
 
 效果图如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-grid-task-3.png)
+![](http://wy.codingirlsclub.com/2016-12-06-grid-task-3.png)
 
 ### 3.4 列排序
 列排序其实就是改变列的方向，就是改变左右浮动，并且设置浮动的距离。在Bootstrap框架的网格系统中是通过添加类名 `col-md-push-*` 和 `col-md-pull-*` (**其中星号代表移动的列组合数**)。
 
 我们来看一个简单的示例：
-<p data-height="300" data-theme-id="0" data-slug-hash="NbYeZV" data-default-tab="html" data-user="sundevilyang" data-embed-version="2" data-pen-title="grid列排序" class="codepen">See the Pen <a href="http://codepen.io/sundevilyang/pen/NbYeZV/">grid列排序</a> by Yang Wen (<a href="http://codepen.io/sundevilyang">@sundevilyang</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
+<iframe height="265" style="width: 100%;" scrolling="no" title="grid列排序" src="//codepen.io/HackerStart/embed/NbYeZV/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/HackerStart/pen/NbYeZV/'>grid列排序</a> by Yang Wen
+  (<a href='https://codepen.io/HackerStart'>@HackerStart</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+请以0.5x观看右侧 Result 或者点击上图右上角的<kbd>Edit on CODEPEN</kbd>看视图效果
 
 > “col-md-4”居左，“col-md-8”居右，如果要互换位置，需要将“col-md-4”向右移动８个列的距离，也就是8个offset ,也就是在“<div class=“col-md-4”>”添加类名“col-md-push-8”，调用其样式。
 >
@@ -158,9 +167,9 @@ Bootstrap框架的网格系统还支持列的嵌套。你可以在一个列中�
 </div>
 ```
 宽屏显示效果如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-mobile-desktop-1.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-mobile-desktop-1.jpg)
 窄屏显示效果如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-mobile-desktop-2.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-mobile-desktop-2.jpg)
 
 其实从上面代码和实际的显示效果，我们就可以看出一些问题来：
 
@@ -193,11 +202,11 @@ Bootstrap框架的网格系统还支持列的嵌套。你可以在一个列中�
 这一次会比原来的情况更加复杂，一个会有3种情况出现：
 
 ##### 宽屏：桌面
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-mobile-pad-desktop-1.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-mobile-pad-desktop-1.jpg)
 ##### 中屏：平板
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-mobile-pad-desktop-2.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-mobile-pad-desktop-2.jpg)
 ##### 窄屏：手机
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-Grid-mobile-pad-desktop-3.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-Grid-mobile-pad-desktop-3.jpg)
 
 然后我们从这一部分代码与实际效果，再加上上面做的一点小总结，对比之后又能发现一些问题：
   1. Bootstrap中对于栅格系统的展示总是优先展示**对应屏幕大小**范围的类（`.col-xs-6`和`.col-sm-4`等等）。

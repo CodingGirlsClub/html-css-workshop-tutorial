@@ -39,7 +39,7 @@
 ```
 我们来看看简化前后的对比图：
 
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-04-dropdown-1.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-04-dropdown-1.jpg)
 
 
 在使用Bootstrap框架中的下拉菜单组件时，其结构运用的正确与否非常的重要，如果结构和类名未使用正确，直接影响组件是否能正常运用。经过我们上面的简化，最终可以看到核心要求有以下几点：
@@ -100,7 +100,7 @@ Bootstrap框架中下拉菜单**默认是左对齐**也就是添加.dropdown-men
   float: left;
 }
 ```
-![下拉菜单（右对齐）](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-04-dropdown-2.jpg)
+![下拉菜单（右对齐）](http://wy.codingirlsclub.com/2016-12-07-04-dropdown-2.jpg)
 
 #### 2.4 菜单项状态
 
@@ -109,7 +109,7 @@ Bootstrap框架中下拉菜单**默认是左对齐**也就是添加.dropdown-men
 下拉菜单项除了上面两种状态，还有当前状态（.active）和禁用状态（.disabled）。这两种状态使用方法只需要在对应的菜单项上添加对应的类名如：<li class="disabled"><a href="#">桃</a></li>
 
 我们可以实现下面这样的效果：
-![下拉菜单（右对齐）](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-080400.jpg)
+![下拉菜单（右对齐）](http://wy.codingirlsclub.com/2016-12-07-080400.jpg)
 
 ----
 ## 二、按钮
@@ -147,7 +147,7 @@ Bootstrap框架中下拉菜单**默认是左对齐**也就是添加.dropdown-men
 </div>
 ```
 上面两段代码效果如下：
-![按钮组及工具栏](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-080700.jpg)
+![按钮组及工具栏](http://wy.codingirlsclub.com/2016-12-07-080700.jpg)
 
 
 
@@ -196,7 +196,7 @@ Bootstrap框架中下拉菜单**默认是左对齐**也就是添加.dropdown-men
 }
 ```
 那么现在就来对比一下，上面代码以及类的添加可以达到的不同效果：
-![嵌套分组、垂直、向上展开](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-080903.jpg)
+![嵌套分组、垂直、向上展开](http://wy.codingirlsclub.com/2016-12-07-080903.jpg)
 
 
 ----
@@ -216,7 +216,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 </ul>
 ```
 当然他们同样也有当前状态（.active）和禁用状态（.disabled），我们给第一个导航添加当前状态，最后一个导航添加禁用状态，实现效果如下：
-![导航-基础样式](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-081238.jpg)
+![导航-基础样式](http://wy.codingirlsclub.com/2016-12-07-081238.jpg)
 
 
 ### 2. 修饰
@@ -273,7 +273,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 </ol>
 ```
 可以实现的效果：
-![导航-面包屑](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-081554.jpg)
+![导航-面包屑](http://wy.codingirlsclub.com/2016-12-07-081554.jpg)
 
 
 ----
@@ -286,8 +286,10 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 
 实际上，导航条和导航在外观上的差别并不是那么的大，但是在实际使用中导航条要比导航复杂得多。下面就来实现一个最基础的导航条。
 
-<p data-height="232" data-theme-id="0" data-slug-hash="NbMypQ" data-default-tab="html" data-user="sundevilyang" data-embed-version="2" data-pen-title="basic_navbar" class="codepen">See the Pen <a href="http://codepen.io/sundevilyang/pen/NbMypQ/">basic_navbar</a> by Yang Wen (<a href="http://codepen.io/sundevilyang">@sundevilyang</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="265" style="width: 100%;" scrolling="no" title="basic_navbar" src="//codepen.io/HackerStart/embed/NbMypQ/?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/HackerStart/pen/NbMypQ/'>basic_navbar</a> by Yang Wen
+  (<a href='https://codepen.io/HackerStart'>@HackerStart</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 点击上图HTML，再点击Result看看效果。拉伸浏览器，分别看看在**宽屏**和**窄屏**的效果。
 
@@ -333,7 +335,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 ```
 效果如下：  
 
-![标题-下拉](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-083513.jpg)
+![标题-下拉](http://wy.codingirlsclub.com/2016-12-07-083513.jpg)
 
 
 我们常常在导航条中都能看到搜索表单，比如知乎，新浪微博等等都具有，Bootstrap框架当然不可能缺掉这样的东西。使用方法也非常简单：
@@ -445,7 +447,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 ```
 实现效果如下：  
 
-![分页码导航](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-084118.jpg)
+![分页码导航](http://wy.codingirlsclub.com/2016-12-07-084118.jpg)
 
 
 可以看到同样会有`hover、active、disabled`等等状态，当然它也可以调整大小：在外层容器中的`.pagination`类后，添加`.pagination-lg`让分页导航变大；`.pagination-sm`让分页导航变小：
@@ -478,7 +480,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
 
 在一些Web页面中常常会添加一个标签用来告诉用户一些额外的信息，比如说在导航上添加了一个新导航项，可能就会加一个“new”标签，来告诉用户。这是新添加的导航项。
 在Bootstrap专门将这样的效果提取成为了单独的标签组件。可以使用`<span>`这样的行内标签添加`.label`类来控制大小，再使用情景类来控制高亮显示的颜色如：`label-default、label-danger`等等（在原来笔记中说到过这样的情景类，只不过这里需要加上不同的前缀）
-![导航条标签](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-084529.jpg)
+![导航条标签](http://wy.codingirlsclub.com/2016-12-07-084529.jpg)
 
 
 ### 徽章（角标）
@@ -493,7 +495,7 @@ Bootstrap框架中制作导航条主要通过`.nav`样式。默认的`.nav`样�
   Messages <span class="badge">4</span>
 </button>
 ```
-![导航条角标](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-084555.jpg)
+![导航条角标](http://wy.codingirlsclub.com/2016-12-07-084555.jpg)
 
 
 通过查看源码，我们可以发现Bootstrap同样使用`:empty`伪元素，来设置当没有内容的时候隐藏：
@@ -518,7 +520,7 @@ Bootstrap 中的徽章会适配导航元素的激活状态。
 
 ```
 
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-084627.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-084627.jpg)
 
 
 

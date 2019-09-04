@@ -7,7 +7,7 @@
   > 手机上有 W3C School的App，大家可自行搜索下载。充分利用上下班通勤时间学习。 
 
 **Tasks For Tutors**：
-1. 每天（根据各组情况也可以两天一次，我们鼓励每天都联系😊）晚上找一个合适的时间，使用软件 [碰碰](https://pengpeng.us/) 或者其他软件跟大家视频开[站会 ](https://zh.wikipedia.org/wiki/%E7%AB%99%E4%BC%9A)，了解学员的学习情况，鼓励她们积极学习。
+1. 每天（根据各组情况也可以两天一次，我们鼓励每天都联系😊）晚上找一个合适的时间，使用会议软件跟大家视频开[站会 ](https://zh.wikipedia.org/wiki/%E7%AB%99%E4%BC%9A)，了解学员的学习情况，鼓励她们积极学习。
   - 站会一般不超过15分钟；
   - 站会经常问的三个问题（更多信息 [Daily Scrum - Scrum Inc](https://www.scruminc.com/daily-scrum/)）：
     - What did I do yesterday that helped the Team meet the Goal?

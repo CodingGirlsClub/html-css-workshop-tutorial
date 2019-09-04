@@ -239,12 +239,12 @@ Bootstrap为表格提供了**1种基础样式**和4**种附加样式**以及**1�
 </form>
 ```
 效果如下：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form1.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-form1.jpg)
 
 ##### 内联表单
 
 还是上面那一段代码：我们只需要给form加上下面`.form-inline`这个类就可以实现表单元素在一行排列：
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form3.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-form3.jpg)
 
 ##### 水平表单
 
@@ -257,7 +257,7 @@ Bootstrap框架默认的表单是垂直显示风格，除了上面的内联表�
     - 例如：使用<div class="col-sm-6"></div>将我们的input进行包裹，具体情况到栅格布局的时候再说
     -
 可以实现下面的效果，（同样处于媒体查询中）
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form2.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-form2.jpg)
 
 
 ### 2. 表单控件
@@ -290,15 +290,15 @@ Bootstrap框架默认的表单是垂直显示风格，除了上面的内联表�
 
 ### 1. 情景按钮
 也正如我们前面所说，Bootstrop对于按钮也做了不同情景下的类，用不同的颜色展示很好的描述了当前的状态。
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form-btn1-1.jpg)
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form-btn2.png)
+![](http://wy.codingirlsclub.com/2016-12-07-form-btn1-1.jpg)
+![](http://wy.codingirlsclub.com/2016-12-07-form-btn2.png)
 > 记住一点！Bootstrap中的按钮，**第一前提是必须添加b`tn`这个类**，其他的各种类，都只能添加到其后。所以一个按钮应该是这个样子的：`<button class="btn btn-info" >信息按钮</button>`，若还有其他的样式，往`btn-info`后添加，充分利用css的层叠特性。
 
 
 ### 2. 按钮大小
 
 Bootstrap有着很对相似的类（学习完后总结一下吧颜色，大小等等），比如现在要说的，改变按钮的大小，当然你可以自定义，但是Bootstrap默认为我们提供了一些，添加到btn类后就行！
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-07-form-btn-size.png)
+![](http://wy.codingirlsclub.com/2016-12-07-form-btn-size.png)
 
 ### 3. 块状按钮
 

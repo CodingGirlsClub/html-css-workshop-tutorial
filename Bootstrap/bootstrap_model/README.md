@@ -89,7 +89,7 @@ Bootstrap 提供以下几种方式帮你快速上手，每一种方式针对具�
 
 5. 布局容器（container）是什么鬼？
 > 顾名思义，就是放Bootstrap代码的容器，只有放在container里面的html代码才会被Bootstrap识别。
-![](http://ocuwjo7n4.bkt.clouddn.com/2016-12-06-lLu7n.jpg)
+![](http://wy.codingirlsclub.com/2016-12-06-lLu7n.jpg)
 > **注意**
 > 我们要把Bootstrap的HTML的代码都放在 带 `container` or `container-fluid`类的 `<div>`标签中.
 
